@@ -7,8 +7,8 @@ Get the size of the terminal.
 ```lisp
 (terminal-size:size)
 
-;; => (319 . 80)
-;; format is (columns . rows)
+;; => 86
+      50
 ```
 
 # License
