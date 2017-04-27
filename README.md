@@ -13,6 +13,6 @@ CL-USER> (terminal-size:size)
 
 # License
 
-Copyright (c) 2016 Fernando Borretti
+Copyright (c) 2016–2017 Fernando Borretti
 
 Licensed under the MIT License.
