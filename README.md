@@ -5,10 +5,10 @@ Get the size of the terminal.
 # Usage
 
 ```lisp
-(terminal-size:size)
+CL-USER> (terminal-size:size)
 
-;; => 86
-      50
+86   ;; columns
+50   ;; lines
 ```
 
 # License
